@@ -23,7 +23,7 @@ together interoperable components and third-party integrations to simplify AI
 application development —  all while future-proofing decisions as the underlying
 technology evolves.
 
-```bash
+```bash - Install PIP first
 pip install -U langchain
 ```
 
